@@ -12,12 +12,16 @@ This Application helps mathematically evaluate similarity of two signatures. Thi
  
  4. Scikit-image
 
-# Preview
-![Capture](https://user-images.githubusercontent.com/103953362/203128037-490e6564-c282-4603-a75c-128cf19d7a19.PNG)
-
 
 # Run
 1. pip install requirements.txt
 2. python main.py
+
+# Preview
+![Capture](https://user-images.githubusercontent.com/103953362/203128037-490e6564-c282-4603-a75c-128cf19d7a19.PNG)
+
+# Please open an issue if
+you have any suggestion to improve this project
+you noticed any problem or error
 
 
